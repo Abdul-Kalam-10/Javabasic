@@ -1,5 +1,5 @@
 # Javabasic
-basic coding in java
-#Numbers
+Basic coding in java
 #Arrays
+#Numbers
 #Strings
